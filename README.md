@@ -14,3 +14,5 @@ See [Credits.md](Credits.md) for a full list of credits to this project.
 - **Development version** (develop branch) is continuously deployed to Netlify https://ctp.netlify.app/
 
 **Always use [stable version](https://met.github.io/chinese-tones-practice/) for your language practice. Development version might be buggy.**
+
+**Forked russian translation** (stable version): https://nickosh.github.io/chinese-tones-practice/
